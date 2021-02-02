@@ -1,0 +1,16 @@
+/*o meu código CSS*/
+
+.img-logo{
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.margem-top-20{
+	margin-top: 20px;
+}
+
+.titulo-erro{
+	font-weight: bolder;
+	color: black;
+}
